@@ -18,7 +18,7 @@ RISC-V Ottawa exists to grow and consolidate a local community of engineers, res
 - **Educational** (training, curriculum, study cohorts)
   - Activities: the public trainings catalog (already started), MOOC/textbook study groups, university course collaborations, outreach
   - Primary champion: Yusef
-- **Professional / industry** (networking, speakers, jobs)
+- **Professional / social** (networking, speakers, jobs)
   - Activities: speaker/networking events, Kanata North firm visits?, ??
   - Primary champion: Alfredo
 
@@ -28,12 +28,12 @@ RISC-V Ottawa exists to grow and consolidate a local community of engineers, res
 
 | Name                   | Role          |
 | :--------------------- | :------------ |
-| Yusef Karim            |               |
-| Alfredo Herrera        |               |
-| Mathieu Gagnon         |               |
-| Mouad Ouroui           |               |
-| Fatimata Dramane       |               |
-| Joe Jaison             |               |
+| Yusef Karim            |  TBD          |
+| Alfredo Herrera        |  TBD          |
+| Mathieu Gagnon         |  TBD          |
+| Mouad Ouroui           |  TBD          |
+| Fatimata Dramane       |  TBD          |
+| Joe Jaison             |  TBD          |
 
 **Are we at 2+2 (four committed people)?**
 
