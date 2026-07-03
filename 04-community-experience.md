@@ -21,8 +21,8 @@
 **Onboard**
 - Touchpoint: joins Discord
 - Feels: wants in, unsure where to start
-- We provide: intro channel, pinned getting-started + resources link, nudge to introduce themselves
-- Goal: Introduces themselves
+- We provide: the `#introductions` channel, the `#resources` channel, and a nudge to introduce themselves via Discord's community onboarding feature
+- Goal: Introduces themselves in `#introductions`
 
 **Participate**
 - Touchpoint: attends 3+ events, active in Discord

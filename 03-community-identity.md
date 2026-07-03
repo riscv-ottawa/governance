@@ -8,8 +8,8 @@
 
 See [Foundations §1.1](01-foundations.md#11-why-are-we-doing-this-purpose-statement).
 
-RVO is essentially a *community of practice*: a group bound by a shared domain, held together as a community, and defined by a common practice.
-The domain is the full RISC-V stack, and the canvas in [§2](#02-mission-model-canvas.md) defines what we are and are not about.
+RVO is a *community of practice*: a group bound by a shared domain, held together as a community, and defined by a common practice.
+The domain is the full RISC-V stack, and the canvas in [§2](02-mission-model-canvas.md) defines what we are and are not about.
 The community is the social fabric: the rituals we agree to protect in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences) and the do-ocracy in [05 §5.2](05-structure-and-governance.md#52-governance-model).
 The practice is "build, break, contribute" (see the values in [§3.4](#34-values-37-max)) and the rolling community project people work on between events.
 The member journey in [04 §4.1](04-community-experience.md#41-member-journey) defines how newcomers start at the edge doing small real things and move inward as they pick up how we work.
@@ -97,7 +97,7 @@ This isn't a vendor pitching venue or a recruiting channel. Sponsors and compani
 1. RISC-V Ottawa (RVO)
 2. Ottawa RISC-V
 
-Stuck with **RISC-V Ottawa** (RVO) because the focus is on RISC-V. Locality is still super important though so Ottawa remains in the name. Also, it abbreviates really nicely to RVO.
+We chose **RISC-V Ottawa** (RVO) because the focus is on RISC-V. Locality still matters, so Ottawa stays in the name, and it abbreviates nicely to RVO.
 
 **Domain availability checked?**
 

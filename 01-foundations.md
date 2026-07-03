@@ -4,9 +4,9 @@
 
 ## 1.1 Why are we doing this? (Purpose statement)
 
-RISC-V is an open instruction set architecture (ISA); a freely available specification for how processors execute instructions, developed in the open and unencumbered by licensing fees or vendor lock-in. Due to these characteristics, RISC-V has gained serious traction for implementations across industry and academia, from embedded controllers, data center chips, security, and AI accelerators.
+RISC-V is an open instruction set architecture (ISA): a freely available specification for how processors execute instructions, developed in the open and free of licensing fees and vendor lock-in. Because of this, RISC-V has gained serious traction across industry and academia, with implementations spanning embedded controllers, data-center chips, security, and AI accelerators.
 
-RISC-V Ottawa exists to grow and consolidate a local community of engineers, researchers, and students in Canada's capital region to learn, build, and contribute together across the full RISC-V stack: ISA specifications, digital design and verification, FPGAs, embedded systems, operating systems, and applications. We aim to become a diverse group that together bridges industry, academia, and the open-source ecosystem with hands-on, vendor-neutral, and open practices - fostering local expertise in this global and burgeoning open computing standard.
+RISC-V Ottawa grows and consolidates a local community of engineers, researchers, and students in Canada's capital region who learn, build, and contribute together across the full RISC-V stack: ISA specifications, digital design and verification, FPGAs, embedded systems, operating systems, and applications. We bring together industry, academia, and the open-source ecosystem through hands-on, vendor-neutral, open practices, and we build local expertise in this global, fast-growing open computing standard.
 
 ## 1.2 Our three orientations: how we'll treat them
 

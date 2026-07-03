@@ -15,7 +15,7 @@
 - [ ] Affiliate / SIG under OpenHW Foundation
 - [ ] CRA registered charity
 
-**Rationale:** Start lean and unincorporated to validate the community without overhead. If the group in interested and sees in beneficial, incorporate under ONCA once activity is steady and there's a concrete trigger (bank account, grant eligibility, liability cover, contracts).
+**Rationale:** Start lean and unincorporated to validate the community without overhead. If the group wants it and sees a benefit, we incorporate under ONCA once activity is steady and a concrete trigger appears (bank account, grant eligibility, liability cover, contracts).
 
 **⏩ Incorporation execution checklist (Ontario nonprofit path):**
 
