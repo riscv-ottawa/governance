@@ -8,6 +8,22 @@
 
 See [Foundations §1.1](01-foundations.md#11-why-are-we-doing-this-purpose-statement).
 
+RVO is essentially a *community of practice*: a group bound by a shared domain, held together as a community, and defined by a common practice.
+The domain is the full RISC-V stack, and the canvas in [§2](#02-mission-model-canvas.md) defines what we are and are not about.
+The community is the social fabric: the rituals we agree to protect in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences) and the do-ocracy in [05 §5.2](05-structure-and-governance.md#52-governance-model).
+The practice is "build, break, contribute" (see the values in [§3.4](#34-values-37-max)) and the rolling community project people work on between events.
+The member journey in [04 §4.1](04-community-experience.md#41-member-journey) defines how newcomers start at the edge doing small real things and move inward as they pick up how we work.
+
+Seven things cultivate a healthy community of practice. We can use them as a checklist, and the worksheet already goes over most:
+
+1. Design for natural evolution. The worksheet is explicitly a living document.
+2. Open a dialogue between inside and outside perspectives. Partnerships with RISC-V International, OpenHW, and the universities.
+3. Welcome different levels of participation, from core to peripheral. See the concrete path in [04 §4.1](04-community-experience.md#41-member-journey).
+4. Develop both public and private spaces. Open events and repos alongside the steering group and confidential incident handling.
+5. Focus on value. The "success for the community" test in [§3.3](#33-success-what-does-success-look-like-for-the-community).
+6. Combine familiarity and excitement. Steady rituals plus hack nights and the annual unconference.
+7. Create a rhythm for the community. The monthly, quarterly, and annual cadence in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences).
+
 ## 3.2 Identity: who is this community for?
 
 **The "ideal member" persona - describe in 3–5 sentences:**

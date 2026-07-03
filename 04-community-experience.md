@@ -120,6 +120,8 @@
 
 **Default licence for our code:** `[x] Apache 2.0  [ ] MIT  [ ] Other:`
 
+Whoever ends up owning these, the standard is that every ritual leaves a small artifact behind: a workshop leaves its materials, a study cohort leaves a reading guide the next cohort can start from, a lightning talk leaves its slides or code. Event recaps carry a short "what we learned" note rather than only a "we met and it was nice" summary, and member spotlights surface the know-how that otherwise travels only by hallway conversation and walks out the door when someone drifts away. That public trail is the externalized half; its private counterpart is the decision log in [07 §7.1](07-logs.md#71-pre-launch-decision-log), where we record why we chose what we chose.
+
 ## 4.5 Roles
 
 *Who does what? Distinct from governance - these are operational roles.*

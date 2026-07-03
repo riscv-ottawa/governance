@@ -5,6 +5,7 @@
 ## Appendix A: Reading list
 
 * Jono Bacon - *People Powered* (chapters 1–4)
+* Etienne Wenger - *Communities of Practice: Learning, Meaning, and Identity* (1998), the source much of the rest of this list descends from; see also Wenger-Trayner, *Communities of Practice: A Brief Introduction* (free at wenger-trayner.com) for the seven cultivation principles
 * Hackerspace Design Patterns (Ohlig & Weiler, 2007) + Design Patterns 2.0 (Altman, 2015)
 * Richardson, Huynh & Sotto - *Get Together* (Stripe Press, free online at gettogether.world)
 * Karl Fogel - *Producing Open Source Software* (free at producingoss.com)
