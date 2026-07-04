@@ -47,7 +47,7 @@ Rule: whoever is doing the work decides and acts. Anyone may act, provided the a
 
 Scope: programs, venues, invited speakers, spending under the escalation threshold, partnerships, and anything said or committed in the group's name.
 
-Rule: the proposer posts a written proposal to the steering-group channel; it proceeds unless a governing member raises a valid objection within a **72-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
+Rule: the proposer posts a written proposal to the steering-group channel; it proceeds unless a governing member raises a valid objection within a **48-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
 
 **Tier 3 - Strategic (legal form, incorporation, bylaws, dissolution, spending over the escalation threshold).**
 

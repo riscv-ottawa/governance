@@ -31,13 +31,13 @@
 - Goal: Joins a SIG or working group
 
 **Contribute**
-- Touchpoint: lightning talk, runs a workshop, commits to the project
+- Touchpoint: lightning talk, runs a workshop, commits to a project
 - Feels: invested, wants to give back, maybe presenting-nervous
 - We provide: low-bar talk slots, dry-run/mentoring, templates, co-presenting, visible credit
 - Goal: Becomes a "Champion"
 
 **Lead**
-- Touchpoint: chairs a SIG, owns a ritual, stands for steering group
+- Touchpoint: leads a project, owns a ritual, stands for steering group
 - Feels: ownership, wary of burnout
 - We provide: clear role defs, shared load + backups, real decision authority, succession planning
 - Goal: Becomes a "Collaborator"
@@ -51,7 +51,7 @@
 - Format: speaker or lightning talks + community status + social; on-time
 - Owner(s): TBD
 
-**Lightning talks**
+**Lightning talks and project progress reports**
 - Frequency: rolled into each meetup
 - Format: 5-min slots, low bar, open sign-up
 - Owner(s): TBD
@@ -147,7 +147,7 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 - Responsibilities: social posts, newsletter
 - Time commitment: ~2-4 hrs/month
 - Owner(s): Fatimata
-- **Rules to run**: routine event promotion is Tier 1, posted ahead under lazy consensus, while a public statement or anything else put out in the RVO name is Tier 2 with the 72-hour window ([§3.5](03-community-identity.md#35-brand), [§5.2](05-structure-and-governance.md#52-governance-model)); member and newsletter data is handled under the data rules in [§5.7](05-structure-and-governance.md#57-data)
+- **Rules to run**: routine event promotion is Tier 1, posted ahead under lazy consensus, while a public statement or anything else put out in the RVO name is Tier 2 with the 48-hour window ([§3.5](03-community-identity.md#35-brand), [§5.2](05-structure-and-governance.md#52-governance-model)); member and newsletter data is handled under the data rules in [§5.7](05-structure-and-governance.md#57-data)
 
 **Workshop coordinator**
 - Responsibilities: plan workshop calendar, recruit instructors, handle materials/hardware logistics
@@ -181,7 +181,7 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 - [ ] **Privacy policy** for member data
 - [ ] **Photography / recording policy** for events
 
-**Meetup organization.** Running a meetup is an operational job ([§4.5](#45-roles)), but the calls made along the way are decisions, and they run under the governance tiers in [§5.2](05-structure-and-governance.md#52-governance-model). Small reversible choices, like agenda order, room layout, and on-the-night logistics, are Tier 1: whoever is doing the work decides. Booking a venue, inviting a speaker, forming a partnership, and anything committed in the group's name are Tier 2, so they go to the steering-group channel with the 72-hour objection window. Spend escalates by the §5.2 thresholds: over **$100** moves to Tier 2, over **$1,000** to Tier 3.
+**Meetup organization.** Running a meetup is an operational job ([§4.5](#45-roles)), but the calls made along the way are decisions, and they run under the governance tiers in [§5.2](05-structure-and-governance.md#52-governance-model). Small reversible choices, like agenda order, room layout, and on-the-night logistics, are Tier 1: whoever is doing the work decides. Booking a venue, inviting a speaker, forming a partnership, and anything committed in the group's name are Tier 2, so they go to the steering-group channel with the **48-hour** objection window. Spend escalates by the §5.2 thresholds: over **$100** moves to Tier 2, over **$1,000** to Tier 3.
 
 Every meetup names a backup organizer so no single person is a point of failure; this is the shared-load and succession duty of [§5.2](05-structure-and-governance.md#52-governance-model) applied to the ritual. Invited speakers and talks must be relevant to RISC-V and uphold vendor-neutrality ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct. There is no pay-to-speak. The meetup plan (date, venue, speakers, any spend) is posted ahead of time in the relevant Discord channel so lazy consensus applies, and the venue, speaker, and spend decisions are recorded afterward in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
 

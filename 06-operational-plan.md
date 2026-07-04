@@ -82,7 +82,7 @@
 - Owner: TBD
 
 **Eclipse/OpenHW Foundation absorbs our energy**
-- Likelihood (L/M/H): L
+- Likelihood (L/M/H): M
 - Impact (L/M/H): M
 - Mitigation: State independence and maintain consistency
 - Owner: TBD

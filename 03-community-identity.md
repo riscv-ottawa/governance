@@ -40,7 +40,7 @@ This isn't a vendor pitching venue or a recruiting channel. Sponsors and compani
 
 **In 12 months we'll know we're succeeding if:**
 
-1. We've held 8+ meetups and 3+ workshops
+1. We've held 8+ meetups and 2+ workshops
 2. We have 20-30 people who'd identify as "active members" if asked (the committed core, distinct from the wider ~75 members/RSVP pool tracked in [§2.9](02-mission-model-canvas.md#29-mission-achievement--impact-factors)), drawn from at least 3 universities/colleges and 5+ employers/organizations
 3. We have a steering group of at least 4-8 distinct people sharing responsibility, with no one person carrying everything
 4. We have 1-2 sponsors
@@ -97,7 +97,7 @@ This isn't a vendor pitching venue or a recruiting channel. Sponsors and compani
 1. RISC-V Ottawa (RVO)
 2. Ottawa RISC-V
 
-We chose **RISC-V Ottawa** (RVO) because the focus is on RISC-V. Locality still matters, so Ottawa stays in the name, and it abbreviates nicely to RVO.
+We chose **RISC-V Ottawa** (RVO) because the focus is on RISC-V. Locality still matters, so Ottawa stays in the name, also it abbreviates nicely to RVO.
 
 **Domain availability checked?**
 
@@ -113,4 +113,4 @@ technical, kind, transparent
 
 **Using the name.**
 
-Speaking or publishing as yourself is always fine; the rule is about acting in RISC-V Ottawa's name. Be clear which one you are doing, so a personal opinion is not read as the group's position. Putting out anything under the RVO name (a newsletter blurb, a public statement, a commitment to a partner) is a commitment in the group's name, so it runs as Tier 2 under [§5.2](05-structure-and-governance.md#52-governance-model): post it in the steering channel with the 72-hour window. Routine event promotion is Tier 1: post ahead under lazy consensus. Yusef owns the brand and [brand-kit](https://github.com/riscv-ottawa/brand-kit) and is the quick contact for name and logo questions. Because "RISC-V Ottawa" carries RISC-V International's trademark, our use of the RISC-V name and logo follows RVI's brand guidelines; the RISC-V Ambassador liaison ([§4.5](04-community-experience.md#45-roles)) is our channel to RVI, including getting RVO content into the RVI newsletter and confirming standing as a recognized local group.
+Speaking or publishing as yourself is always fine; the rule is about acting in RISC-V Ottawa's name. Be clear which one you are doing, so a personal opinion is not read as the group's position. Putting out anything under the RVO name (a newsletter blurb, a public statement, a commitment to a partner) is a commitment in the group's name, so it runs as Tier 2 under [§5.2](05-structure-and-governance.md#52-governance-model): post it in the steering channel with the 48-hour window. Routine event promotion is Tier 1: post ahead under lazy consensus. Yusef owns the brand and [brand-kit](https://github.com/riscv-ottawa/brand-kit) and is the quick contact for name and logo questions. Because "RISC-V Ottawa" carries RISC-V International's trademark, our use of the RISC-V name and logo follows RVI's brand guidelines; the RISC-V Ambassador liaison ([§4.5](04-community-experience.md#45-roles)) is our channel to RVI, including getting RVO content into the RVI newsletter and confirming standing as a recognized local group.

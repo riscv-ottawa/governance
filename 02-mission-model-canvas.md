@@ -118,7 +118,7 @@ For each resource type, note what we need and whether we have it, need it, or ha
 
 * Have: founding core team
 * Need: more instructors/leaders so we aren't reliant on one or two people (and can cover more topics, such as design, verification, RTOS, etc), a treasurer/admin
-* Gap: a dedicated treasurer/admin and succession (avoid single points of failure)
+* Gap: a succession leader (avoid single points of failure) and dedicated treasurer/admin (future need)
 
 **Space**
 
@@ -196,7 +196,7 @@ For each category, record rough monthly cost, annual cost, and any notes.
 **OPTIONAL: event supplies (food, prints)**
 - Monthly: ~$200
 - Annual: ~$2,400
-- Notes: Would be nice to eventually get pizza/coffee for everyone at or monthly meetups, plus name tags and signage.
+- Notes: Would be nice to eventually get pizza/coffee for everyone at our monthly meetups, plus name tags and signage.
 
 **OPTIONAL: hardware purchases / replenishment**
 - Monthly: ~$100
@@ -237,7 +237,7 @@ For each category, record rough monthly cost, annual cost, and any notes.
 
 **Workshops delivered**
 - How we'll measure it: # workshops × # attendees
-- Year 1 target: 4 workshops reaching 60+ unique participants
+- Year 1 target: 2-4 workshops reaching 60+ unique participants
 
 **Open-source contributions (PRs, projects)**
 - How we'll measure it: GitHub org metrics
