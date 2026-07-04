@@ -140,7 +140,7 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 **Website / comms lead**
 - Responsibilities: maintain site + resources, social posts
 - Time commitment: ~2-4 hrs/month
-- Owner(s): Yusef (website + resources), Fatimata (social posts)
+- Owner(s): Yusef (website + resources), Fatimata (comms lead)
 
 **Workshop coordinator**
 - Responsibilities: plan workshop calendar, recruit instructors, handle materials/hardware logistics

@@ -3,8 +3,7 @@
 > Status: Draft
 
 > `⏩` marks subsections that are deferred until later; skip them for now.
-> **[§5.2 Governance model](#52-governance-model) and [§5.3 Governance model](#53-governance-model)
-> are the exception: it is adopted, in force today, and the binding core of this entire worksheet.**
+> **[§5.2 Governance model](#52-governance-model) is the exception: once agreed upon, it is adopted, in force today, and the binding core of this entire worksheet.**
 > Every other section, in this file and the others, operates under the decision rules it sets. Read it first.
 
 ## 5.1 Legal structure decision
@@ -69,7 +68,7 @@ Rule: until incorporated, these require full steering-group consensus, meaning e
 - Uphold the values ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)) in how decisions are made, not only in what is decided.
 - Share the load and honor succession and term limits so no single person carries the group. This is a governing duty because the biggest structural risk to RVO is sole-founder dependence (see the Lead stage in [§4.1](04-community-experience.md#41-member-journey) and the risks register in [§6.4](06-operational-plan.md#64-risks-register)).
 
-## 5.3 Steering group
+## ⏩ 5.3 Steering group
 
 The formal board is constituted at incorporation (see [§5.1](#51-legal-structure-decision)); until then the founding steering group serves this function. Seats below are placeholders for that point. All seats carry a 2-year term.
 
