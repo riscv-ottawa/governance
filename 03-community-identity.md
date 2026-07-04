@@ -110,3 +110,7 @@ Yusef. Logos and avatars are committed under their own public repo: [brand-kit](
 **Tone of voice (3 adjectives):**
 
 technical, kind, transparent
+
+**Using the name.**
+
+Speaking or publishing as yourself is always fine; the rule is about acting in RISC-V Ottawa's name. Be clear which one you are doing, so a personal opinion is not read as the group's position. Putting out anything under the RVO name (a newsletter blurb, a public statement, a commitment to a partner) is a commitment in the group's name, so it runs as Tier 2 under [§5.2](05-structure-and-governance.md#52-governance-model): post it in the steering channel with the 72-hour window. Routine event promotion is Tier 1: post ahead under lazy consensus. Yusef owns the brand and [brand-kit](https://github.com/riscv-ottawa/brand-kit) and is the quick contact for name and logo questions. Because "RISC-V Ottawa" carries RISC-V International's trademark, our use of the RISC-V name and logo follows RVI's brand guidelines; the RISC-V Ambassador liaison ([§4.5](04-community-experience.md#45-roles)) is our channel to RVI, including getting RVO content into the RVI newsletter and confirming standing as a recognized local group.

@@ -55,6 +55,8 @@ Rule: until incorporated, these require full steering-group consensus, meaning e
 
 **Escalation (a decision moves up a tier if ANY of these apply):** it is hard to reverse; it commits money over the threshold; it makes an external-facing commitment (a partnership, a sponsor arrangement, a public statement in the group's name); or it touches legal standing, the values, or the Code of Conduct. When it is unclear which tier a decision belongs to, treat it as the higher tier.
 
+**The commons.** A handful of assets are held by the community as a whole, not by whoever happens to be holding them: the RISC-V Ottawa name and brand, the organization itself and its legal standing, member data ([§5.7](#57-data)), and the group's standing relationships and partnerships. Spending or committing any of these is a group decision no matter how small it feels, so it is never a Tier 1 solo call even when the individual act looks small and reversible; treat it as Tier 2, or Tier 3 if it is hard to undo. This does not reach a member's own project code or personal opinions, which stay do-ocracy; it applies only when someone draws on what the group collectively owns.
+
 <!--**Escalation threshold (dollar amount where a decision moves up a tier):**
 - Tier 1 -> Tier 2: **$100 (proposed)** per item.
 - Tier 2 -> Tier 3: **$1,000 (proposed)** per item or commitment.-->
