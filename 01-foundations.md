@@ -17,23 +17,23 @@ RISC-V Ottawa grows and consolidates a local community of engineers, researchers
   - Primary champion: TBD
 - **Educational** (training, curriculum, study cohorts)
   - Activities: the public trainings catalog (already started), MOOC/textbook study groups, university course collaborations, outreach
-  - Primary champion: Yusef
+  - Primary champion: TBD
 - **Professional / social** (networking, speakers, jobs)
   - Activities: speaker/networking events, Kanata North firm visits?, ??
-  - Primary champion: Alfredo
+  - Primary champion: TBD
 
 ## 1.3 Founding team check (the "rule of 2+2")
 
-*From Hackerspace Design Patterns: you need at least 2+2 committed founders who will stick around. Burnout is the \#1 killer of these groups.*
+*From Hackerspace Design Patterns: you need at least 2+2 committed founders who will stick around. Burnout is the #1 killer of these groups.*
 
-| Name                   | Role          |
-| :--------------------- | :------------ |
-| Yusef Karim            |  TBD          |
-| Alfredo Herrera        |  TBD          |
-| Mathieu Gagnon         |  TBD          |
-| Mouad Ouroui           |  TBD          |
-| Fatimata Dramane       |  TBD          |
-| Joe Jaison             |  TBD          |
+| Name                   | Focus area    | Committed?    |
+| :--------------------- | :------------ | :------------ |
+| Yusef Karim            |  TBD          |  TBD          |
+| Alfredo Herrera        |  TBD          |  TBD          |
+| Mathieu Gagnon         |  TBD          |  TBD          |
+| Mouad Ouroui           |  TBD          |  TBD          |
+| Fatimata Dramane       |  TBD          |  TBD          |
+| Joe Jaison             |  TBD          |  TBD          |
 
 **Are we at 2+2 (four committed people)?**
 

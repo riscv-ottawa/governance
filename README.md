@@ -13,7 +13,7 @@ The worksheet is a living document: it captures who we serve, how we operate, ho
 ## How to use this
 
 Each document below is one reviewable section.
-Read top to bottom for the full picture, or jump to the section your group is working on. Sections still being filled in are marked 🚧.
+Read top to bottom for the full picture, or jump to the section your group is working on. Sections still being filled in are marked 🚧. One section is load-bearing for all the others: the [governance model (§5.2)](05-structure-and-governance.md#52-governance-model) sets the decision rules the rest of the worksheet operates under, so read it first.
 
 | # | Document | What it covers | Status |
 | :-- | :-- | :-- | :-- |
@@ -21,7 +21,7 @@ Read top to bottom for the full picture, or jump to the section your group is wo
 | 2 | [Mission Model Canvas](02-mission-model-canvas.md) | Beneficiaries, value propositions, partners, costs, and impact measures | Draft |
 | 3 | [Community Canvas - Identity](03-community-identity.md) | Who the community is for, what success looks like, our values and brand | Draft |
 | 4 | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules | Draft |
-| 5 | [Structure & Governance](05-structure-and-governance.md) | Legal structure, governance model, financing, controls, and transparency | Draft |
+| 5 | [Structure & Governance](05-structure-and-governance.md) | Legal structure, the binding **[governance model (§5.2)](05-structure-and-governance.md#52-governance-model)**, financing, controls, and transparency | Draft |
 | 6 | [First 12 Months Operational Plan](06-operational-plan.md) | Quarter-by-quarter milestones and the risks register | Draft |
 | 7 | [Logs](07-logs.md) | Pre-launch decision log and the open-questions parking lot | 🚧 In progress |
 | 8 | [Appendices](08-appendices.md) | Reading list and templates to import / adapt | Reference |

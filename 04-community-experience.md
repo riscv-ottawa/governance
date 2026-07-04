@@ -130,6 +130,7 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 - Responsibilities: book venue, set agenda, line up speakers, run the meetup
 - Time commitment: ~4-6 hrs/month
 - Owner(s): Fatimata, Joe, with assistance from the entire group to get speakers and run the meetup
+- How it's run: each meetup has a named backup organizer, and organizing decisions follow the meetup rules in [§4.6](#46-rules-the-explicit-ones)
 
 **Discord moderator(s)**
 - Responsibilities: welcome newcomers, keep channels on-topic, enforce CoC online
@@ -140,11 +141,6 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 - Responsibilities: maintain site + resources, social posts
 - Time commitment: ~2-4 hrs/month
 - Owner(s): Yusef (website + resources), Fatimata (social posts)
-
-**Treasurer**
-- Responsibilities: track income/expenses, reimbursements, sponsor invoicing, financial transparency
-- Time commitment: ~1-2 hrs/month
-- Owner(s): NOT CURRENTLY NEEDED
 
 **Workshop coordinator**
 - Responsibilities: plan workshop calendar, recruit instructors, handle materials/hardware logistics
@@ -171,7 +167,11 @@ Whoever ends up owning these, the standard is that every ritual leaves a small a
 - [ ] **Code of conduct** adopted (Contributor Covenant v2.1 / v3 / other)
 - [ ] **Berlin Code of Conduct for in-person events** adopted
 - [ ] **Anti-harassment policy** posted publicly
-- [ ] **Decision-making process documented** (see [§5.2](05-structure-and-governance.md#52-governance-model))
+- [x] **Decision-making process documented** (adopted and binding, see [§5.2](05-structure-and-governance.md#52-governance-model))
 - [ ] **Conflict of interest policy** (especially for vendor-affiliated members)
 - [ ] **Privacy policy** for member data
 - [ ] **Photography / recording policy** for events
+
+**Meetup organization.** Running a meetup is an operational job ([§4.5](#45-roles)), but the calls made along the way are decisions, and they run under the governance tiers in [§5.2](05-structure-and-governance.md#52-governance-model). Small reversible choices, like agenda order, room layout, and on-the-night logistics, are Tier 1: whoever is doing the work decides. Booking a venue, inviting a speaker, forming a partnership, and anything committed in the group's name are Tier 2, so they go to the steering-group channel with the 72-hour objection window. Spend escalates by the §5.2 thresholds: over **$100** moves to Tier 2, over **$1,000** to Tier 3.
+
+Every meetup names a backup organizer so no single person is a point of failure; this is the shared-load and succession duty of [§5.2](05-structure-and-governance.md#52-governance-model) applied to the ritual. Invited speakers and talks must be relevant to RISC-V and uphold vendor-neutrality ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct. There is no pay-to-speak. The meetup plan (date, venue, speakers, any spend) is posted ahead of time in the relevant Discord channel so lazy consensus applies, and the venue, speaker, and spend decisions are recorded afterward in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).

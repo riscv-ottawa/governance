@@ -10,7 +10,7 @@ See [Foundations §1.1](01-foundations.md#11-why-are-we-doing-this-purpose-state
 
 RVO is a *community of practice*: a group bound by a shared domain, held together as a community, and defined by a common practice.
 The domain is the full RISC-V stack, and the canvas in [§2](02-mission-model-canvas.md) defines what we are and are not about.
-The community is the social fabric: the rituals we agree to protect in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences) and the do-ocracy in [05 §5.2](05-structure-and-governance.md#52-governance-model).
+The community is the social fabric: the rituals we agree to protect in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences) and the binding governance model in [05 §5.2](05-structure-and-governance.md#52-governance-model).
 The practice is "build, break, contribute" (see the values in [§3.4](#34-values-37-max)) and the rolling community project people work on between events.
 The member journey in [04 §4.1](04-community-experience.md#41-member-journey) defines how newcomers start at the edge doing small real things and move inward as they pick up how we work.
 

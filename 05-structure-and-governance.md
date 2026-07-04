@@ -2,7 +2,10 @@
 
 > Status: Draft
 
-⏩ == SKIP FOR NOW
+> `⏩` marks subsections that are deferred until later; skip them for now.
+> **[§5.2 Governance model](#52-governance-model) and [§5.3 Governance model](#53-governance-model)
+> are the exception: it is adopted, in force today, and the binding core of this entire worksheet.**
+> Every other section, in this file and the others, operates under the decision rules it sets. Read it first.
 
 ## 5.1 Legal structure decision
 
@@ -29,16 +32,44 @@
 
 ## 5.2 Governance model
 
-**Day-to-day decisions (small, reversible, low-stakes):** whoever is doing the work makes the call (a "do-ocracy"), and a proposal is treated as agreed if nobody objects within a reasonable window (a "lazy consensus"). "If you want to do it, do it, be excellent."
+*This section is adopted and binding. It defines how every decision in RVO gets made and what is expected of the people who make them. When any other section is unclear about who decides or how, this one governs.*
 
-**Operational decisions (programs, deciding venues or invited speakers, budget, partnerships):** steering-group consent decision: the proposal goes ahead unless someone raises a serious, reasoned objection that it would harm the group's aims. A personal preference or "I'd do it differently" isn't enough to block it. This is faster than full consensus, where everyone has to actively agree.
+**Who this binds ("governing members"):** today, the founding steering group; if incorporated, the board. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
 
-**Strategic decisions (legal, large budget, bylaws):** Not applicable for now.
-<!--For future reference: board vote with quorum, per ONCA requirements (once incorporated; until then, full steering-group consensus).-->
+Decisions fall into three tiers. Every decision belongs to exactly one tier, and the escalation rules below decide which.
 
-**Threshold dollar amount where decision moves up a level:** TBD
+**Tier 1 - Day-to-day (do-ocracy + lazy consensus).**
 
-## ⏩ 5.3 Steering group / board composition
+Scope: small, reversible, low-stakes calls, the kind a single person can undo cheaply if it goes wrong.
+
+Rule: whoever is doing the work decides and acts. Anyone may act, provided the action is genuinely reversible and low-cost. For anything announced ahead of time, lazy consensus applies: the proposal is agreed unless a reasoned objection lands in the relevant Discord channel within **48 hours**. "If you want to do it, do it, be excellent."
+
+**Tier 2 - Operational (steering-group consent).**
+
+Scope: programs, venues, invited speakers, spending under the escalation threshold, partnerships, and anything said or committed in the group's name.
+
+Rule: the proposer posts a written proposal to the steering-group channel; it proceeds unless a governing member raises a valid objection within a **72-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
+
+**Tier 3 - Strategic (legal form, incorporation, bylaws, dissolution, spending over the escalation threshold).**
+
+Rule: until incorporated, these require full steering-group consensus, meaning every governing member actively agrees, not merely declines to object. Once incorporated, they require a board vote with quorum per ONCA. These are the decisions that are hard or impossible to reverse, so they carry the highest bar.
+
+**Escalation (a decision moves up a tier if ANY of these apply):** it is hard to reverse; it commits money over the threshold; it makes an external-facing commitment (a partnership, a sponsor arrangement, a public statement in the group's name); or it touches legal standing, the values, or the Code of Conduct. When it is unclear which tier a decision belongs to, treat it as the higher tier.
+
+<!--**Escalation threshold (dollar amount where a decision moves up a tier):**
+- Tier 1 -> Tier 2: **$100 (proposed)** per item.
+- Tier 2 -> Tier 3: **$1,000 (proposed)** per item or commitment.-->
+
+**What is expected of governing members (binding):** holding a governing seat carries obligations, not just authority. Every governing member MUST:
+
+- Review and respond to Tier 2 and Tier 3 proposals within the stated window. **Sustained non-response is not a silent veto; a member who cannot keep up is expected to say so and step aside so the seat can be filled**.
+- Block only with a valid objection as defined above, and always propose an alternative rather than merely refusing.
+- Disclose conflicts of interest and recuse from the decision, especially members affiliated with a vendor or sponsor. This upholds the vendor-neutral value ([§3.4](03-community-identity.md#34-values-37-max)) and the conflict-of-interest rule in [§4.6](04-community-experience.md#46-rules-the-explicit-ones).
+- Default to open: decisions about public matters are made in the open and recorded, per the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)) and the transparency commitments in [§5.8](#58-transparency). Private handling is reserved for personal data and incidents.
+- Uphold the values ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)) in how decisions are made, not only in what is decided.
+- Share the load and honor succession and term limits so no single person carries the group. This is a governing duty because the biggest structural risk to RVO is sole-founder dependence (see the Lead stage in [§4.1](04-community-experience.md#41-member-journey) and the risks register in [§6.4](06-operational-plan.md#64-risks-register)).
+
+## 5.3 Steering group
 
 The formal board is constituted at incorporation (see [§5.1](#51-legal-structure-decision)); until then the founding steering group serves this function. Seats below are placeholders for that point. All seats carry a 2-year term.
 
@@ -47,18 +78,20 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 - Term ends: TBD
 
 **Treasurer**
-- Currently held by: TBD (not needed until we handle money)
+- Currently held by: ⏩ (not needed until we incorporate)
 - Term ends: TBD
 
 **Secretary**
+- Currently held by: ⏩ (not needed until we incorporate)
+- Term ends: TBD
+
+**Director-at-large**
+- Focus area: Programs & Community (meetups, workshops, study cohorts, the community project, member engagement and retention)
 - Currently held by: TBD
 - Term ends: TBD
 
 **Director-at-large**
-- Currently held by: TBD
-- Term ends: TBD
-
-**Director-at-large**
+- Focus area: Partnerships & Ecosystem (industry, academia, RISC-V International / OpenHW, sponsorship and independence)
 - Currently held by: TBD
 - Term ends: TBD
 
@@ -66,7 +99,7 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 
 **Maximum consecutive terms:** 2 (proposed)
 
-**Minimum directors per ONCA:** 3 (we'll have >=3)
+**Minimum directors per ONCA:** 3
 
 **Public Benefit Corporation threshold ($10K/yr in donations \+ funding) - once we cross it, at least 1/3 of directors must not be employees:** noted `[ ]`
 
