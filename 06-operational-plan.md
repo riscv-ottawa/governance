@@ -48,12 +48,7 @@
 - [ ] Optional: first corporate sponsor signed
 - [ ] Mission Model Canvas published publicly as our one-pager
 
-**Later / only if a trigger appears:** incorporation is on hold while we stay a lean unincorporated meetup (see [§5.1](05-structure-and-governance.md#51-legal-structure-decision)). Revisit these only when there's a concrete trigger (bank account need, grant eligibility, liability cover, contracts):
-
-- ONCA incorporation filed (~$200-300)
-- Bylaws drafted via CLEO Bylaw Builder, legally reviewed
-- Bank account opened
-- First AGM held
+**Later / only if a trigger appears:** incorporation is on hold while we stay a lean unincorporated meetup. Revisit only when a concrete trigger appears (bank account need, grant eligibility, liability cover, contracts). The steps to work through then are the incorporation checklist in [§5.1](05-structure-and-governance.md#51-legal-structure-decision) (ONCA filing, bylaws via CLEO, first directors meeting), after which come opening a bank account and holding the first AGM.
 
 ## 6.4 Risks register
 

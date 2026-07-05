@@ -6,18 +6,7 @@ If you are reviewing as a group rather than editing, you can see the [README ind
 
 ## How the documents are organized
 
-The worksheet is split into numbered files at the repository root, one per major section, in reading order:
-
-| File | Section |
-| :-- | :-- |
-| `01-foundations.md` | Foundations |
-| `02-mission-model-canvas.md` | Mission Model Canvas |
-| `03-community-identity.md` | Community Canvas - Identity |
-| `04-community-experience.md` | Community Canvas - Experience |
-| `05-structure-and-governance.md` | Structure & Governance |
-| `06-operational-plan.md` | First 12 Months Operational Plan |
-| `07-logs.md` | Decision log & open questions |
-| `08-appendices.md` | Reading list & templates |
+The worksheet is split into numbered files at the repository root, one per major section, in reading order. The [README index](README.md#how-to-use-this) is the canonical list of files, with a one-line description of each.
 
 Each file opens with an H1 title and a one-line status header, for example:
 
@@ -27,21 +16,17 @@ Each file opens with an H1 title and a one-line status header, for example:
 > Status: 🚧 In progress
 ```
 
-Sub-points keep the numbering used inside their file (governance section 5.2 lives in `05-structure-and-governance.md`, operational section 6.2 in `06-operational-plan.md`, and so on), so a reference like "§5.5" is unambiguous about which file it points to.
+Sub-points keep the numbering used inside their file (governance section 5.2 lives in `05-structure-and-governance.md`, and so on), so a reference like "§5.5" is unambiguous about which file it points to.
 
 ## Status conventions
 
-The status header on each file, and the status column in the README index, use three values:
-
-- **Draft** - content is in place, open for review and refinement.
-- **🚧 In progress** - has placeholders or TBDs that still need filling in. Mark the specific heading with 🚧 too, so it is easy to spot.
-- **Reference** - stable supporting material, not expected to change often.
+The status header on each file, and the status column in the README index, use the same set of values, defined in the [README status legend](README.md#how-this-is-organized). When a section is 🚧 In progress, mark the specific heading with 🚧 too, so it is easy to spot.
 
 When your edit changes a section's maturity (for instance, you fill in the last TBD in a 🚧 section), update both the file's status header and the matching row in the README index in the same change.
 
 ## Making a change
 
-1. Edit the relevant file directly. Most structured sections are written as bulleted lists (a bold item heading with labelled sub-bullets to fill in) rather than tables, because lists are easier to extend and edit; follow that pattern rather than reformatting it. A few stable, narrow tables remain (the founding-team list, the README index, and the file map below); leave those as tables.
+1. Edit the relevant file directly. Most structured sections are written as bulleted lists (a bold item heading with labelled sub-bullets to fill in) rather than tables, because lists are easier to extend and edit; follow that pattern rather than reformatting it. A few stable, narrow tables remain (the founding-team list and the README index); leave those as tables.
 2. Update the `Last updated` date in the file's status header.
 3. If the change affects status, update the README index row to match.
 4. Keep edits scoped to one section per change where you can, so a working group can review a single file at a time.

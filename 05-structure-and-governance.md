@@ -201,7 +201,7 @@ The formal steering group (an elected board) is constituted at incorporation (se
 
 **Membership tiers:** Membership is free. There are no personal dues tiers; anyone can join and participate at no cost.
 
-**Corporate sponsorship tiers** (sponsorship is support, not membership, and never buys editorial control - see [§2.3](02-mission-model-canvas.md#23-buy-in--support)). Dollar amounts below are placeholders to refine:
+**Corporate sponsorship tiers** (sponsorship is support, not membership, and never buys editorial control - see [§3.4](03-community-identity.md#34-values-37-max)). Dollar amounts below are placeholders to refine:
 
 **Corporate Bronze** ($1,000/year)
 
@@ -326,10 +326,9 @@ _Distinct from 5.5 (where the money comes from). This is how we handle it respon
 
 - Decision: TBD
 
-**Nonprofit tax & filing obligations to confirm:**
+**Nonprofit tax & filing obligations to confirm** (the CRA business number is part of the incorporation checklist in [§5.1](#51-legal-structure-decision)):
 
 - [ ] Ontario corporate annual return (post-ONCA)
-- [ ] CRA business number obtained
 - [ ] GST/HST registration threshold understood ($50K small-supplier line)
 - [ ] T1044 / NPO information return obligation checked
 - [ ] T3010 charity return (only if we register as a charity)
