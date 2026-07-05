@@ -161,7 +161,7 @@ _Who does what? Distinct from governance - these are operational roles._
 - Responsibilities: maintain site + resources
 - Time commitment: ~2-4 hrs/month
 - Owner(s): Yusef
-- **Rules to run**: routine upkeep and resource links are Tier 1 do-ocracy, but anything on the site that reads as a public statement or a commitment in the group's name runs as Tier 2 per [§3.5](03-community-identity.md#35-brand) and [§5.2](05-structure-and-governance.md#52-governance-model); Yusef owns the domain and hosting ([§5.6](05-structure-and-governance.md#56-spaces--tools)), will need a named backup in the future so the site is not a single point of failure
+- **Rules to run**: routine upkeep and resource links are Tier 1 (default to action), but anything on the site that reads as a public statement or a commitment in the group's name runs as Tier 2 per [§3.5](03-community-identity.md#35-brand) and [§5.2](05-structure-and-governance.md#52-governance-model); Yusef owns the domain and hosting ([§5.6](05-structure-and-governance.md#56-spaces--tools)), will need a named backup in the future so the site is not a single point of failure
 
 **Comms lead**
 

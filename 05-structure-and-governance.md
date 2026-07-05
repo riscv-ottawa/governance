@@ -35,11 +35,14 @@ _This section is adopted and binding. It defines how every decision in RVO gets 
 
 **Who this binds ("governing members"):** today, the founding steering group; if incorporated, the board. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
 
+In the language of open-source governance, RVO runs as a self-appointing organizing (a.k.a., "steering") group: the founding members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
+RVO delegates reversible day-to-day work to whoever picks it up (Tier 1 below) while holding the consequential decisions to the tiers above it.
+
 Decisions fall into three tiers. Every decision belongs to exactly one tier, and the escalation rules below decide which.
 
 ---
 
-**Tier 1 - Day-to-day (do-ocracy + lazy consensus).**
+**Tier 1 - Day-to-day (default to action + lazy consensus).**
 
 Scope: small, reversible, low-stakes calls, the kind a single person can undo cheaply if it goes wrong.
 
@@ -61,11 +64,15 @@ Rule: until incorporated, these require full steering-group consensus, meaning e
 
 ---
 
-**Escalation (a decision moves up a tier if ANY of these apply):** it is hard to reverse; it commits money over the threshold; it makes an external-facing commitment (a partnership, a sponsor arrangement, a public statement in the group's name); or it touches legal standing, the values, or the Code of Conduct. When it is unclear which tier a decision belongs to, treat it as the higher tier.
+**Escalation (a decision moves up a tier if ANY of these apply).**
+
+If something is hard to reverse, move the decision a tier up. Examples include: a decision that commits money, makes an external-facing commitment (a partnership, a sponsor arrangement, a public statement in the group's name), or it touches legal standing, the values, or the Code of Conduct. When it is unclear which tier a decision belongs to, treat it as the higher tier.
 
 ---
 
-**The commons.** A handful of assets are held by the community as a whole, not by whoever happens to be holding them: the RISC-V Ottawa name and brand, the organization itself and its legal standing, member data ([§5.7](#57-data)), and the group's standing relationships and partnerships. Spending or committing any of these is a group decision no matter how small it feels, so it is never a Tier 1 solo call even when the individual act looks small and reversible; treat it as Tier 2, or Tier 3 if it is hard to undo. This does not reach a member's own project code or personal opinions, which stay do-ocracy; it applies only when someone draws on what the group collectively owns.
+**The commons.**
+
+A handful of assets are held by the community as a whole, not by whoever happens to be holding them: the RISC-V Ottawa name and brand, the organization itself and its legal standing, member data ([§5.7](#57-data)), and the group's standing relationships and partnerships. Spending or committing any of these is a group decision no matter how small it feels, so it is never a Tier 1 solo call even when the individual act looks small and reversible; treat it as Tier 2, or Tier 3 if it is hard to undo. This does not reach a member's own project code or personal opinions, which stay Tier 1 (default to action); it applies only when someone draws on what the group collectively owns.
 
 ---
 
