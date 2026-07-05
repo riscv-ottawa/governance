@@ -1,6 +1,6 @@
 # Foundations
 
-> Status: Draft
+> Status: 🚧 In progress
 
 ## 1.1 Why are we doing this? (Purpose statement)
 

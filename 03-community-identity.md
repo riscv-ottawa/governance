@@ -1,6 +1,6 @@
 # Community Canvas (Identity layer)
 
-> Status: Draft
+> Status: 🚧 In progress
 
 _From Fabian Pfortmüller's Community Canvas. The Identity section is the cultural DNA._
 

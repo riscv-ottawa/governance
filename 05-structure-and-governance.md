@@ -1,6 +1,6 @@
 # Community Canvas (Structure layer) & Governance
 
-> Status: Draft
+> Status: 🚧 In progress
 
 > `⏩` marks subsections that are deferred until later; skip them for now.
 > **[§5.2 Governance model](#52-governance-model) is the exception: it is adopted, in force today, and the binding core of this entire worksheet.**

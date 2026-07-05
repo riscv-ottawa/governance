@@ -1,6 +1,6 @@
 # Community Canvas (Experience layer)
 
-> Status: Draft
+> Status: 🚧 In progress
 
 ## 4.1 Member journey
 

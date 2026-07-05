@@ -1,6 +1,6 @@
 # First 12 Months Operational Plan
 
-> Status: Draft
+> Status: 🚧 In progress
 
 ## 6.1 Months 0–3 (Spark the flame)
 

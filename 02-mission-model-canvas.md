@@ -1,6 +1,6 @@
 # Mission Model Canvas
 
-> Status: Draft
+> Status: 🚧 In progress
 
 <p align="center">
   <img src="./assets/mission-model-canvas.png" alt="Mission Model Canvas" width="800">

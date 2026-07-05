@@ -1,6 +1,6 @@
 # Appendices
 
-> Status: Reference
+> Status: 🚧 In progress
 
 ## Appendix A: Reading list
 
