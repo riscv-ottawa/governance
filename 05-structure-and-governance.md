@@ -3,7 +3,7 @@
 > Status: Draft
 
 > `⏩` marks subsections that are deferred until later; skip them for now.
-> **[§5.2 Governance model](#52-governance-model) is the exception: once agreed upon, it is adopted, in force today, and the binding core of this entire worksheet.**
+> **[§5.2 Governance model](#52-governance-model) is the exception: it is adopted, in force today, and the binding core of this entire worksheet.**
 > Every other section, in this file and the others, operates under the decision rules it sets. Read it first.
 
 ## 5.1 Legal structure decision
@@ -31,11 +31,13 @@
 
 ## 5.2 Governance model
 
-*This section is adopted and binding. It defines how every decision in RVO gets made and what is expected of the people who make them. When any other section is unclear about who decides or how, this one governs.*
+_This section is adopted and binding. It defines how every decision in RVO gets made and what is expected of the people who make them. When any other section is unclear about who decides or how, this one governs._
 
 **Who this binds ("governing members"):** today, the founding steering group; if incorporated, the board. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
 
 Decisions fall into three tiers. Every decision belongs to exactly one tier, and the escalation rules below decide which.
+
+---
 
 **Tier 1 - Day-to-day (do-ocracy + lazy consensus).**
 
@@ -43,19 +45,29 @@ Scope: small, reversible, low-stakes calls, the kind a single person can undo ch
 
 Rule: whoever is doing the work decides and acts. Anyone may act, provided the action is genuinely reversible and low-cost. For anything announced ahead of time, lazy consensus applies: the proposal is agreed unless a reasoned objection lands in the relevant Discord channel within **48 hours**. "If you want to do it, do it, be excellent."
 
+---
+
 **Tier 2 - Operational (steering-group consent).**
 
 Scope: programs, venues, invited speakers, spending under the escalation threshold, partnerships, and anything said or committed in the group's name.
 
 Rule: the proposer posts a written proposal to the steering-group channel; it proceeds unless a governing member raises a valid objection within a **48-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
 
+---
+
 **Tier 3 - Strategic (legal form, incorporation, bylaws, dissolution, spending over the escalation threshold).**
 
 Rule: until incorporated, these require full steering-group consensus, meaning every governing member actively agrees, not merely declines to object. Once incorporated, they require a board vote with quorum per ONCA. These are the decisions that are hard or impossible to reverse, so they carry the highest bar.
 
+---
+
 **Escalation (a decision moves up a tier if ANY of these apply):** it is hard to reverse; it commits money over the threshold; it makes an external-facing commitment (a partnership, a sponsor arrangement, a public statement in the group's name); or it touches legal standing, the values, or the Code of Conduct. When it is unclear which tier a decision belongs to, treat it as the higher tier.
 
+---
+
 **The commons.** A handful of assets are held by the community as a whole, not by whoever happens to be holding them: the RISC-V Ottawa name and brand, the organization itself and its legal standing, member data ([§5.7](#57-data)), and the group's standing relationships and partnerships. Spending or committing any of these is a group decision no matter how small it feels, so it is never a Tier 1 solo call even when the individual act looks small and reversible; treat it as Tier 2, or Tier 3 if it is hard to undo. This does not reach a member's own project code or personal opinions, which stay do-ocracy; it applies only when someone draws on what the group collectively owns.
+
+---
 
 <!--**Escalation threshold (dollar amount where a decision moves up a tier):**
 - Tier 1 -> Tier 2: **$100 (proposed)** per item.
@@ -75,23 +87,28 @@ Rule: until incorporated, these require full steering-group consensus, meaning e
 The formal board is constituted at incorporation (see [§5.1](#51-legal-structure-decision)); until then the founding steering group serves this function. Seats below are placeholders for that point. All seats carry a 2-year term.
 
 **Chair**
+
 - Currently held by: TBD (steering group for now)
 - Term ends: TBD
 
 **Treasurer**
+
 - Currently held by: ⏩ (not needed until we incorporate)
 - Term ends: TBD
 
 **Secretary**
+
 - Currently held by: ⏩ (not needed until we incorporate)
 - Term ends: TBD
 
 **Director-at-large**
+
 - Focus area: Programs & Community (meetups, workshops, study cohorts, the community project, member engagement and retention)
 - Currently held by: TBD
 - Term ends: TBD
 
 **Director-at-large**
+
 - Focus area: Partnerships & Ecosystem (industry, academia, RISC-V International / OpenHW, sponsorship and independence)
 - Currently held by: TBD
 - Term ends: TBD
@@ -107,18 +124,22 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 ## ⏩ 5.4 Working groups / SIGs (deferred until 50+ members)
 
 **Hardware**
+
 - Trigger to launch: 50+ active members + a willing chair
 - Chair candidate: TBD
 
 **Software & Firmware**
+
 - Trigger to launch: 50+ active members + a willing chair
 - Chair candidate: TBD
 
 **Education**
+
 - Trigger to launch: 50+ active members + a willing chair
 - Chair candidate: TBD
 
 **Professional / Industry**
+
 - Trigger to launch: 50+ active members + a willing chair
 - Chair candidate: TBD
 
@@ -138,18 +159,21 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 **Workshop fees (earned revenue)** - TBD (training and workshops are free for now)
 
 **Corporate sponsorship**
+
 - Target %: primary source
 - Year 1 $: TBD
 - Owner: TBD (sponsor / partnership lead)
 - Status: idle
 
 **Foundation grants**
+
 - Target %: primary source
 - Year 1 $: TBD
 - Owner: TBD
 - Status: idle
 
 **Individual donations**
+
 - Target %: minor / opportunistic
 - Year 1 $: TBD
 - Owner: TBD
@@ -162,59 +186,70 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 **Corporate sponsorship tiers** (sponsorship is support, not membership, and never buys editorial control - see [§2.3](02-mission-model-canvas.md#23-buy-in--support)). Dollar amounts below are placeholders to refine:
 
 **Corporate Bronze** ($1,000/year)
+
 - What it includes: logo on website + recurring event mentions
 
 **Corporate Silver** ($5,000/year)
+
 - What it includes: Bronze + logo on event slides + a demo/speaking slot on a RISC-V topic
 
 **Corporate Gold** ($15,000/year)
+
 - What it includes: Silver + option to be provided with help for RISC-V related work from members + prominent placement
 
 ## 5.6 Spaces & tools
 
 **🟢 Event discovery**
+
 - Tool / platform: Luma
 - Owner: Fatimata + Yusef
 - Cost: $0 (free tier)
 - Backup if it disappears: Meetup.com or Eventbrite
 
 **🟢 Real-time chat**
+
 - Tool / platform: Discord
 - Owner: Yusef
 - Cost: $0
 - Backup if it disappears: Matrix or Zulip
 
 **🟢 Code / project hosting**
+
 - Tool / platform: GitHub org ([riscv-ottawa](https://github.com/riscv-ottawa))
 - Owner: Yusef
 - Cost: $0
 - Backup if it disappears: GitLab or self-hosted Forgejo
 
 **🟢 Website**
+
 - Tool / platform: self-hosted interactive site ([riscvottawa.ca](https://riscvottawa.ca))
 - Owner: Yusef
 - Cost: ~$20/yr (domain)
 - Backup if it disappears: one of the many cloud providers
 
 **🟡 Newsletter**
+
 - Tool / platform: Buttondown or Luma email (TBD)
 - Owner: TBD
 - Cost: $0 (free tier)
 - Backup if it disappears: Mailchimp free tier
 
 **🟢 Document storage**
+
 - Tool / platform: GitHub repos + Google docs (for temporal things)
 - Owner: everyone
 - Cost: $0
 - Backup if it disappears: local + git history
 
 **🟢 Video calls**
+
 - Tool / platform: Zoom or Discord (or Google Meet)
 - Owner: Alfredo (Zoom account), Yusef (Discord)
 - Cost: $0
 - Backup if it disappears: Jitsi (self-hostable)
 
 **🟢 Physical space**
+
 - Tool / platform: in-kind university / Eclipse rooms
 - Owner: TBD
 - Cost: $0 (in-kind)
@@ -251,21 +286,26 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 
 ## ⏩ 5.9 Financial controls & accounting
 
-*Distinct from 5.5 (where the money comes from). This is how we handle it responsibly.*
+_Distinct from 5.5 (where the money comes from). This is how we handle it responsibly._
 
 **Bookkeeping tool & cadence (e.g. Wave, QuickBooks)** (owner: Treasurer)
+
 - Decision: TBD
 
 **Signing authority (two-signature rule for amounts over $TBD)** (owner: Treasurer)
+
 - Decision: adopt a two-signature rule at incorporation; threshold TBD
 
 **Annual budget approved before fiscal year** (owner: Board)
+
 - Decision: TBD
 
 **Financial report at every board meeting + AGM** (owner: Treasurer)
+
 - Decision: TBD
 
 **Reimbursement / expense process** (owner: Treasurer)
+
 - Decision: TBD
 
 **Nonprofit tax & filing obligations to confirm:**
@@ -275,3 +315,23 @@ The formal board is constituted at incorporation (see [§5.1](#51-legal-structur
 - [ ] GST/HST registration threshold understood ($50K small-supplier line)
 - [ ] T1044 / NPO information return obligation checked
 - [ ] T3010 charity return (only if we register as a charity)
+
+## 5.10 Contributions, licensing, and IP
+
+**Free to contribute.**
+
+Before you contribute code, hardware designs, documentation, or any other material, confirm that you are legally free to do so. Your employment rules, contracts, NDAs, and IP obligations are your responsibility to confirm. We want what you bring to be yours to freely share. If you are unsure, check with your employer before getting involved. This is a self-attestation: participating means you are making it, there is nothing to sign. This follows from "the commons" in [§5.2](#52-governance-model), which keeps a member's own project code with the member. The group takes no assignment of your IP, so only bring what is actually yours to bring!
+
+**Recommended licenses.**
+
+RVO publishes our work openly ([§3.4](03-community-identity.md#34-values-37-max)). Here are suggested default licenses, given by the type of work:
+
+- **Code and software:** Apache-2.0 or MIT
+- **Hardware, RTL, gateware, and board designs:** Solderpad Hardware License 2.1
+- **Documentation, curriculum, slides, and other written content:** CC BY-SA 4.0
+
+A repository or workshop can pick a different license when there is a reason to, but these are the suggested defaults. License of course belong in the repos themselves (e.g., a `LICENSE` file), rather than only here.
+
+**AI usage.**
+
+You may use AI tools to help produce any type of contribution, but **you own the result**. You are responsible for it being license-compatible, properly attributed, accurate, and something you actually have the right to contribute under the license you've selected (ideally from those suggested above). It is recommended to disclose **substantial** AI-generated content, this ensures reviewers know what they are looking at and can gauge accordingly. It is also suggested that you **understand** the AI-generated code you are using, especially if you are committing it for code review by others.
