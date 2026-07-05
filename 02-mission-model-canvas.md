@@ -72,7 +72,7 @@ _Who do we need to sustain us, and what kind of relationship do we need with the
 **Sponsors**
 
 - What we get: cash and in-kind support (venue, food, hardware, swag), partnership/affiliation, occasional speaker access
-- What they get in return: logo placement on the site, event slides, and recurring meetup mentions; early access to a vetted talent pool; speaking and demo slots tied to RISC-V topics; association with a credible, neutral, founding community in the region; and goodwill from visibly backing open hardware locally. Support does not buy editorial control, neutrality on tooling/vendors, or a captive sales channel.
+- What they get in return: brand association and visibility with a credible, neutral, founding community in the region, early access to a vetted talent pool, RISC-V-topic speaking and demo opportunities, and goodwill from visibly backing open hardware locally. The concrete per-tier benefits are set out in [§5.5](05-structure-and-governance.md#55-financing-the-layered-model), and support never buys editorial control ([§3.4](03-community-identity.md#34-values-37-max)).
 
 ## 2.4 Deployment
 
@@ -80,11 +80,7 @@ _How do people find us and how do we reach them?_
 
 **Inbound channels (how they find us):**
 
-- Website: [riscvottawa.ca](http://riscvottawa.ca)
-- GitHub: [riscv-ottawa](https://github.com/riscv-ottawa)
-- Discord: [RISC-V Ottawa](https://discord.gg/EfryE4wfk4)
-- LinkedIn page: [RISC-V Ottawa](https://www.linkedin.com/company/riscv-ottawa)
-- Luma page: [RISC-V Ottawa](https://luma.com/riscv-ottawa)
+- Our public channels (website, GitHub, Discord, LinkedIn, Luma); see the full list with links in [README](README.md#get-involved)
 - RISC-V International Community Groups page: TBD
 - Word of mouth from university faculty
 - Kanata North BIA newsletter and Hub350 event channels
