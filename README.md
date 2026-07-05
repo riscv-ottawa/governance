@@ -1,10 +1,10 @@
-# RISC-V Ottawa community planning worksheet
+# RISC-V Ottawa Governance
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This repository holds the planning and governance worksheet for **RISC-V Ottawa (RVO)**, a community of engineers, researchers, and students in Canada's capital region learning, building, and contributing across the full RISC-V stack.
+This repository holds the planning and governance documents for **RISC-V Ottawa (RVO)**.
 
-The worksheet is a living document: it captures who we serve, how we operate, how we govern ourselves, and what we plan to do in our first year.
+The entire repository is a set of living documents: it captures who we serve, how we operate, how we govern ourselves, and what we plan to do.
 
 <p align="center">
   <img src="./assets/community-garden.png" alt="RVO Community Garden Metaphor" width="600">
@@ -12,8 +12,9 @@ The worksheet is a living document: it captures who we serve, how we operate, ho
 
 ## How to use this
 
-Each document below is one reviewable section.
-Read top to bottom for the full picture, or jump to the section your group is working on. Sections still being filled in are marked 🚧. One section is load-bearing for all the others: the [governance model (§5.2)](05-structure-and-governance.md#52-governance-model) sets the decision rules the rest of the worksheet operates under, so read it first.
+You can read the documents listed below from top to bottom to get the **full** picture, or you can jump to the section most relevant to you currently.
+Note, there is one particular section that is extremely important and frames all the others properly, this is the [governance model (§5.2)](05-structure-and-governance.md#52-governance-model).
+It sets the decision rules the rest of the documents operates under, if you haven't already, read it first.
 
 | # | Document | What it covers | Status |
 | :-- | :-- | :-- | :-- |
@@ -30,16 +31,16 @@ Read top to bottom for the full picture, or jump to the section your group is wo
 
 Files are numbered `01`–`09` in reading order, one per major section, and live at the repository root.
 Sub-points keep the numbering used inside each file (e.g. governance section 5.2 lives in `05-structure-and-governance.md`).
-Cross-references between files are relative links, so they keep working as the documents move.
 
 Status legend used in the table above and in each file's header:
 
-- **Reviewed** - content has been reviewed by the organizing committee at least once, document still remains open for further review and refinement.
-- **Draft** - content is in place, open for review and refinement.
 - **🚧 In progress** - has placeholders or TBDs that still need filling in.
-- **Reference** - stable supporting material, not expected to change often.
+- **Draft** - content is in place, needs review and refinement.
+- **Reviewed** - content has been thoroughly reviewed by the organizing committee, but may still be need active review and refinement.
+- **Reference** - stable time-tested and well understood material, not expected to change often.
 
-The worksheet is a living document and contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to edit a section, add a new one, and keep statuses and cross-references in sync.
+As mentioned, this is a living document and contributions are welcome.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to edit a section, add a new one, and keep statuses and cross-references in sync.
 
 ## Get involved
 
