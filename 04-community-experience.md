@@ -161,14 +161,14 @@ _Who does what? Distinct from governance - these are operational roles._
 - Responsibilities: maintain site + resources
 - Time commitment: ~2-4 hrs/month
 - Owner(s): Yusef
-- **Rules to run**: routine upkeep and resource links are Tier 1 (default to action), but anything on the site that reads as a public statement or a commitment in the group's name runs as Tier 2 per [§3.5](03-community-identity.md#35-brand) and [§5.2](05-structure-and-governance.md#52-governance-model); Yusef owns the domain and hosting ([§5.6](05-structure-and-governance.md#56-spaces--tools)), will need a named backup in the future so the site is not a single point of failure
+- **Rules to run**: routine upkeep and resource links are Tier 1, but anything on the site that is a public statement or a commitment in the group's name falls under Tier 2 ([§3.5](03-community-identity.md#35-brand), [§5.2](05-structure-and-governance.md#52-governance-model)); Yusef owns the domain and hosting and will need a named backup eventually so the site is not a single point of failure
 
 **Comms lead**
 
 - Responsibilities: social posts, newsletter
 - Time commitment: ~2-4 hrs/month
 - Owner(s): Fatimata
-- **Rules to run**: routine event promotion is Tier 1, posted ahead under lazy consensus, while a public statement or anything else put out in the RVO name is Tier 2 with the 48-hour window ([§3.5](03-community-identity.md#35-brand), [§5.2](05-structure-and-governance.md#52-governance-model)); member and newsletter data is handled under the data rules in [§5.7](05-structure-and-governance.md#57-data)
+- **Rules to run**: routine event promotion is Tier 1, while a public statement or anything else put out in the RVO name is Tier 2 ([§3.5](03-community-identity.md#35-brand), [§5.2](05-structure-and-governance.md#52-governance-model)); member and newsletter data is handled under the data rules in [§5.7](05-structure-and-governance.md#57-data)
 
 **Workshop coordinator**
 
@@ -181,7 +181,7 @@ _Who does what? Distinct from governance - these are operational roles._
 - Responsibilities: cultivate sponsors + partners, manage agreements, deliver agreed benefits
 - Time commitment: ~2-3 hrs/month
 - Owner(s): TBD
-- **Rules to run**: sponsorships and partnerships are external-facing commitments drawn on the commons, so they are never a solo call: every agreement runs at least Tier 2, and Tier 3 once it is hard to reverse or over the spend threshold ([§5.2](05-structure-and-governance.md#52-governance-model)). Sponsors get visibility, never editorial control ([§3.4](03-community-identity.md#34-values-37-max)), there is no pay-to-speak, and vendor affiliations are disclosed up front ([§4.6](#46-rules-the-explicit-ones))
+- **Rules to run**: sponsorships and partnerships are external-facing commitments drawn on the commons, so they are never a solo call: every agreement runs at least Tier 2, and Tier 3 once it is hard to reverse or over the spend threshold ([§5.2](05-structure-and-governance.md#52-governance-model)). The vendor-neutral limits on sponsors apply ([§3.4](03-community-identity.md#34-values-37-max)): no pay-to-speak, and vendor affiliations are disclosed up front ([§4.6](#46-rules-the-explicit-ones))
 
 **Code of conduct contact**
 
@@ -206,10 +206,10 @@ _Who does what? Distinct from governance - these are operational roles._
 - [ ] **Privacy policy** for member data
 - [ ] **Photography / recording policy** for events
 
-**Meetup organization.** Running a meetup is an operational job ([§4.5](#45-roles)), but the calls made along the way are decisions, and they run under the governance tiers in [§5.2](05-structure-and-governance.md#52-governance-model). Small reversible choices, like agenda order, room layout, and on-the-night logistics, are Tier 1: whoever is doing the work decides. Booking a venue, inviting a speaker, forming a partnership, and anything committed in the group's name are Tier 2, so they go to the organizing group channel with the **48-hour** objection window. Spend escalates by the §5.2 thresholds.
+**Meetup organization.** Running a meetup is an operational job ([§4.5](#45-roles)), but the calls made along the way are decisions and fall under the governance tiers in [§5.2](05-structure-and-governance.md#52-governance-model). Small reversible choices (agenda order, room layout, on-the-night logistics) are Tier 1; booking a venue, inviting a speaker, forming a partnership, and anything committed in the group's name are Tier 2, and spend escalates by the §5.2 thresholds.
 
-Every meetup names a backup organizer so no single person is a point of failure; this is the shared-load and succession duty of [§5.2](05-structure-and-governance.md#52-governance-model) applied to the ritual. Invited speakers and talks must be relevant to RISC-V and uphold vendor-neutrality ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct. There is no pay-to-speak. The meetup plan (date, venue, speakers, any spend) is posted ahead of time in the relevant Discord channel so lazy consensus applies, and the venue, speaker, and spend decisions are recorded afterward in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
+Every meetup names a backup organizer so no single person is a point of failure, the shared-load and succession duty of [§5.2](05-structure-and-governance.md#52-governance-model) applied to the ritual. Invited speakers and talks must be relevant to RISC-V and uphold vendor-neutrality ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct; there is no pay-to-speak. The meetup plan (date, venue, speakers, any spend) is posted ahead of time in the relevant Discord channel, and the venue, speaker, and spend decisions are recorded afterward in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
 
-**Disclosure.** The duty on the organizing team to disclose conflicts of interest ([§5.2](05-structure-and-governance.md#52-governance-model)) is expected of everyone, not only the steering group. If you have a personal stake in something the group is weighing, a vendor or employer affiliation, a product you would benefit from, a relationship that colors your advice, say so up front when you advise, recommend, or decide, and step back from the call if the stake is real. Vendor-affiliated members recommending their own tooling is the case to watch; disclosure here is what upholds the vendor-neutral value ([§3.4](03-community-identity.md#34-values-37-max)). Disclosing early is normal and welcome, not an admission of wrongdoing.
+**Disclosure.** The duty on the organizing team to disclose conflicts of interest ([§5.2](05-structure-and-governance.md#52-governance-model)) is expected of everyone, not only the steering group. If you have a personal stake in something the group is weighing, a vendor or employer affiliation, a product you would benefit from, a relationship that biases your advice, say so up front when you advise, recommend, or decide, and step back from the call if the stake is real. Vendor-affiliated members recommending their own tooling is a case to watch. Disclosing early is normal and welcome, not an admission of wrongdoing.
 
-Additionally, the organizing team should independently confirm that they are legally free to actually contribute. This might mean confirming any employment rules, contracts, NDAs, and IP obligations permit it. We want what you bring to be yours to freely share and align with [§5.10](05-structure-and-governance.md#510-contributions-licensing--ip)).
+Additionally, the organizing team (like everyone) should confirm they are legally free to contribute before doing so; the details are in [§5.10](05-structure-and-governance.md#510-contributions-licensing--ip).
