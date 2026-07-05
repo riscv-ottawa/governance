@@ -58,30 +58,35 @@
 ## 6.4 Risks register
 
 **Founder burnout**
+
 - Likelihood (L/M/H): M
 - Impact (L/M/H): H
 - Mitigation: Shared responsibility and leadership
 - Owner: TBD
 
 **Sponsorships**
+
 - Likelihood (L/M/H): L
 - Impact (L/M/H): L
 - Mitigation: No sponsor(s), no problem
 - Owner: TBD
 
 **Scope creep (premature 3-track split)**
+
 - Likelihood (L/M/H): M
 - Impact (L/M/H): M
 - Mitigation: Don't split until 50+ active members
 - Owner: TBD
 
 **Funding fragility**
+
 - Likelihood (L/M/H): M
 - Impact (L/M/H): M
 - Mitigation: If funding is needed, ensure it is diversified (grants + sponsorship + donations); kept lean with near-zero fixed costs so we can run on volunteers alone
 - Owner: TBD
 
 **Eclipse/OpenHW Foundation absorbs our energy**
+
 - Likelihood (L/M/H): M
 - Impact (L/M/H): M
 - Mitigation: State independence and maintain consistency

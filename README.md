@@ -21,7 +21,7 @@ Read top to bottom for the full picture, or jump to the section your group is wo
 | 2 | [Mission Model Canvas](02-mission-model-canvas.md) | Beneficiaries, value propositions, partners, costs, and impact measures | Draft |
 | 3 | [Community Canvas - Identity](03-community-identity.md) | Who the community is for, what success looks like, our values and brand | Draft |
 | 4 | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules | Draft |
-| 5 | [Structure & Governance](05-structure-and-governance.md) | Legal structure, the binding **[governance model (§5.2)](05-structure-and-governance.md#52-governance-model)**, financing, controls, and transparency | Draft |
+| 5 | [Structure & Governance](05-structure-and-governance.md) | Legal structure, the binding **[governance model (§5.2)](05-structure-and-governance.md#52-governance-model)**, financing, controls, transparency, and contribution licensing | Draft |
 | 6 | [First 12 Months Operational Plan](06-operational-plan.md) | Quarter-by-quarter milestones and the risks register | Draft |
 | 7 | [Logs](07-logs.md) | Pre-launch decision log and the open-questions parking lot | 🚧 In progress |
 | 8 | [Appendices](08-appendices.md) | Reading list and templates to import / adapt | Reference |
@@ -34,6 +34,7 @@ Cross-references between files are relative links, so they keep working as the d
 
 Status legend used in the table above and in each file's header:
 
+- **Reviewed** - content has been reviewed by the organizing committee at least once, document still remains open for further review and refinement.
 - **Draft** - content is in place, open for review and refinement.
 - **🚧 In progress** - has placeholders or TBDs that still need filling in.
 - **Reference** - stable supporting material, not expected to change often.

@@ -4,9 +4,10 @@
 
 ## 7.1 Pre-launch Decision Log
 
-*Capture key decisions here as you make them. Add one block per decision, newest first, recording date, who made it, the rationale, and whether it can be reversed.*
+_Capture key decisions here as you make them. Add one block per decision, newest first, recording date, who made it, the rationale, and whether it can be reversed._
 
 **(decision)**
+
 - Date:
 - Made by:
 - Rationale:
@@ -14,6 +15,6 @@
 
 ## 7.2 Open Questions
 
-*Things to come back to. Don't let them block progress on filled-in sections.*
+_Things to come back to. Don't let them block progress on filled-in sections._
 
 1.

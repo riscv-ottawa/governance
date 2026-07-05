@@ -2,13 +2,13 @@
 
 > Status: Draft
 
-*From Fabian Pfortmüller's Community Canvas. The Identity section is the cultural DNA.*
+_From Fabian Pfortmüller's Community Canvas. The Identity section is the cultural DNA._
 
 ## 3.1 Purpose
 
 See [Foundations §1.1](01-foundations.md#11-why-are-we-doing-this-purpose-statement).
 
-RVO is a *community of practice*: a group bound by a shared domain, held together as a community, and defined by a common practice.
+RVO is a _community of practice_: a group bound by a shared domain, held together as a community, and defined by a common practice.
 The domain is the full RISC-V stack, and the canvas in [§2](02-mission-model-canvas.md) defines what we are and are not about.
 The community is the social fabric: the rituals we agree to protect in [04 §4.2](04-community-experience.md#42-rituals-recurring-shared-experiences) and the binding governance model in [05 §5.2](05-structure-and-governance.md#52-governance-model).
 The practice is "build, break, contribute" (see the values in [§3.4](#34-values-37-max)) and the rolling community project people work on between events.
@@ -36,7 +36,7 @@ This isn't a vendor pitching venue or a recruiting channel. Sponsors and compani
 
 ## 3.3 Success: what does success look like for the community?
 
-*Not for the org, but for the community as a living entity.*
+_Not for the org, but for the community as a living entity._
 
 **In 12 months we'll know we're succeeding if:**
 
@@ -56,39 +56,44 @@ This isn't a vendor pitching venue or a recruiting channel. Sponsors and compani
 
 **Leading indicators we'll watch monthly:**
 
-* New first-time meetup attendees per month
-* Repeat attendance rate
-* Active participation in our Discord and on LinkedIn
+- New first-time meetup attendees per month
+- Repeat attendance rate
+- Active participation in our Discord and on LinkedIn
 
 ## 3.4 Values (3–7 max)
 
-*What are our shared values? These should be testable; if a behaviour violates a value, the value should help adjudicate.*
+_What are our shared values? These should be testable; if a behaviour violates a value, the value should help adjudicate._
 
 **Open ISA, open community**
+
 - In practice: Default to public meetings, open-licensed materials, transparent finances
 - When violated: Private decisions about public matters; closed-door member selection
 
 **Hands-on**
+
 - In practice: Workshops produce things; talks come with code or RTL; "build, break, contribute"
 - When violated: All-theory presentations, vendor pitches with no demos
 
 **Vendor-neutral**
+
 - In practice: No exclusive sponsor content; no single-vendor cheerleading; sponsors get visibility, not editorial control
 - When violated: Workshop titles that read like product launches; speakers who only know their own stuff and won't compare
 
 **Be excellent to each other**
+
 - In practice: Default to charitable interpretation; address harm directly and quickly
 - When violated: Snarky culture; "well actually" gatekeeping; harassment unaddressed
 
 **Respect everyone's time**
+
 - In practice: Events start on time, end on time, have a clear point; async-first comms; no pointless meetings
 - When violated: Late-running meetups; meetings without agendas; "quick question" Discord pings that consume hours
 
 **Required baseline (non-negotiable, adopt these):**
 
-- **Be excellent to each other** (The foundational rule from Noisebridge, adopted by every successful hackerspace)
-- **Vendor-neutral** (Critical for charitable status and for sustaining trust across the ecosystem)
 - **Open ISA, open community** (Decisions, finances, code, curriculum open by default.)
+- **Vendor-neutral** (Critical for charitable status and for sustaining trust across the ecosystem)
+- **Be excellent to each other** (The foundational rule from Noisebridge, adopted by every successful hackerspace)
 
 ## 3.5 Brand
 
