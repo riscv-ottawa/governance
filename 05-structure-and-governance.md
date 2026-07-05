@@ -33,10 +33,21 @@
 
 _This section is adopted and binding. It defines how every decision in RVO gets made and what is expected of the people who make them. When any other section is unclear about who decides or how, this one governs._
 
-**Who this binds ("governing members"):** today, the founding steering group; if incorporated, the board. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
+**Who this binds ("organizing team"):** today, the organizing team; if incorporated, the steering group. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
 
-In the language of open-source governance, RVO runs as a self-appointing organizing (a.k.a., "steering") group: the founding members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
+Very importantly, **the organizing team should help ensure the entire extended RVO community is aware and tries to adhere to this model as well.**
+The organizing team are expected to act as examples, upholding this model completely.
+
+In the language of open-source governance, RVO runs as a self-appointing organizing team: the founding members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
 RVO delegates reversible day-to-day work to whoever picks it up (Tier 1 below) while holding the consequential decisions to the tiers above it.
+
+> **Organizing team vs. steering group.**
+>
+> These are the same group, but at two different stages.
+> Today, while RVO is unincorporated, it is the *organizing team*: the founders and members who hold and renew the seats themselves.
+> If RVO incorporates under ONCA ([§5.1](#51-legal-structure-decision)), it becomes the *steering group*, a formal elected board bound by ONCA's quorum and voting rules ([§5.3](#53-steering-group--board-composition)).
+> The steering group only exists in that future incorporated case.
+> Every rule this section places on the organizing team applies to the steering group as well, and even more strictly, since a formal board also carries legal duties on top of them.
 
 Decisions fall into three tiers. Every decision belongs to exactly one tier, and the escalation rules below decide which.
 
@@ -50,17 +61,17 @@ Rule: whoever is doing the work decides and acts. Anyone may act, provided the a
 
 ---
 
-**Tier 2 - Operational (steering-group consent).**
+**Tier 2 - Operational (organizing team consent).**
 
 Scope: programs, venues, invited speakers, spending under the escalation threshold, partnerships, and anything said or committed in the group's name.
 
-Rule: the proposer posts a written proposal to the steering-group channel; it proceeds unless a governing member raises a valid objection within a **48-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
+Rule: the proposer posts a written proposal to the organizing team channel; it proceeds unless a member of the organizing team raises a valid objection within a **48-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
 
 ---
 
 **Tier 3 - Strategic (legal form, incorporation, bylaws, dissolution, spending over the escalation threshold).**
 
-Rule: until incorporated, these require full steering-group consensus, meaning every governing member actively agrees, not merely declines to object. Once incorporated, they require a board vote with quorum per ONCA. These are the decisions that are hard or impossible to reverse, so they carry the highest bar.
+Rule: until incorporated, these require full organizing team consensus, meaning every member of the organizing team actively agrees, not merely declines to object. Once incorporated, they require a board vote with quorum per ONCA. These are the decisions that are hard or impossible to reverse, so they carry the highest bar.
 
 ---
 
@@ -80,7 +91,7 @@ A handful of assets are held by the community as a whole, not by whoever happens
 - Tier 1 -> Tier 2: **$100 (proposed)** per item.
 - Tier 2 -> Tier 3: **$1,000 (proposed)** per item or commitment.-->
 
-**What is expected of governing members (binding):** holding a governing seat carries obligations, not just authority. Every governing member MUST:
+**What is expected of the organizing team (binding):** holding a governing seat carries obligations, not just authority. Every member of the organizing team MUST:
 
 - Review and respond to Tier 2 and Tier 3 proposals within the stated window. **Sustained non-response is not a silent veto; a member who cannot keep up is expected to say so and step aside so the seat can be filled**.
 - Block only with a valid objection as defined above, and always propose an alternative rather than merely refusing.
@@ -91,7 +102,7 @@ A handful of assets are held by the community as a whole, not by whoever happens
 
 ## ⏩ 5.3 Steering group
 
-The formal board is constituted at incorporation (see [§5.1](#51-legal-structure-decision)); until then the founding steering group serves this function. Seats below are placeholders for that point. All seats carry a 2-year term.
+The formal steering group (an elected board) is constituted at incorporation (see [§5.1](#51-legal-structure-decision)); until then the organizing team serves this function. Seats below are placeholders for that point. All seats carry a 2-year term.
 
 **Chair**
 
