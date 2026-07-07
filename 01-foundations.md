@@ -19,7 +19,7 @@ RISC-V Ottawa grows and consolidates a local community of engineers, researchers
 - **Professional / social** (networking, speakers, jobs)
   - Activities: speaker/networking events, Kanata North firm visits?, ??
 
-## 1.3 Organizing team check (the "rule of 2+2")
+## 1.3 Organizing team check-in (the "rule of 2+2")
 
 _From Hackerspace Design Patterns: we want at least 2+2 committed organizers who will stick around. Burnout is the #1 killer and 2+2 will ensure we avoid it._
 
