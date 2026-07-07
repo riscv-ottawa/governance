@@ -13,19 +13,19 @@ The entire repository is a set of living documents: it captures who we serve, ho
 ## How to use this
 
 You can read the documents listed below from top to bottom to get the **full** picture, or you can jump to the section most relevant to you currently.
-Note, there is one particular section that is extremely important and frames all the others properly, this is the [governance model (§5.2)](05-structure-and-governance.md#52-governance-model).
+Note, there is one particular section that is extremely important and frames all the others properly, this is the [governance model (§5.2)][gov].
 It sets the decision rules the rest of the documents operates under, if you haven't already, read it first.
 
-| #   | Document                                                    | What it covers                                                                                                                                                                | Status         |
-| :-- | :---------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
-| 1   | [Foundations](01-foundations.md)                            | Why we exist, our three orientations, and the founding-team check                                                                                                             | 🚧 In progress |
-| 2   | [Mission Model Canvas](02-mission-model-canvas.md)          | Beneficiaries, value propositions, partners, costs, and impact measures                                                                                                       | 🚧 In progress |
-| 3   | [Community Canvas - Identity](03-community-identity.md)     | Who the community is for, what success looks like, our values and brand                                                                                                       | 🚧 In progress |
-| 4   | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules                                                                                                                            | 🚧 In progress |
-| 5   | [Structure & Governance](05-structure-and-governance.md)    | Legal structure, the binding **[governance model (§5.2)](05-structure-and-governance.md#52-governance-model)**, financing, controls, transparency, and contribution licensing | 🚧 In progress |
-| 6   | [First 12 Months Operational Plan](06-operational-plan.md)  | Quarter-by-quarter milestones and the risks register                                                                                                                          | 🚧 In progress |
-| 7   | [Logs](07-logs.md)                                          | Pre-launch decision log and the open-questions parking lot                                                                                                                    | 🚧 In progress |
-| 8   | [Appendices](08-appendices.md)                              | Reading list and templates to import / adapt                                                                                                                                  | 🚧 In progress |
+| #   | Document                                                    | What it covers                                                                                                                 | Status         |
+| :-- | :---------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------- |
+| 1   | [Foundations](01-foundations.md)                            | Why we exist, our three orientations, and the founding-team check                                                              | 🚧 In progress |
+| 2   | [Mission Model Canvas](02-mission-model-canvas.md)          | Beneficiaries, value propositions, partners, costs, and impact measures                                                        | 🚧 In progress |
+| 3   | [Community Canvas - Identity](03-community-identity.md)     | Who the community is for, what success looks like, our values and brand                                                        | 🚧 In progress |
+| 4   | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules                                                                             | 🚧 In progress |
+| 5   | [Structure & Governance](05-structure-and-governance.md)    | Legal structure, the binding **[governance model (§5.2)][gov]**, financing, controls, transparency, and contribution licensing | 🚧 In progress |
+| 6   | [First 12 Months Operational Plan](06-operational-plan.md)  | Quarter-by-quarter milestones and the risks register                                                                           | 🚧 In progress |
+| 7   | [Logs](07-logs.md)                                          | Pre-launch decision log and the open-questions parking lot                                                                     | 🚧 In progress |
+| 8   | [Appendices](08-appendices.md)                              | Reading list and templates to import / adapt                                                                                   | 🚧 In progress |
 
 ## How this is organized
 
@@ -58,3 +58,4 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[gov]: 05-structure-and-governance.md#52-governance-model
