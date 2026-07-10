@@ -26,7 +26,7 @@ _From Hackerspace Design Patterns: we want at least 2+2 committed organizers who
 | Name             | Focus area                                          | Estimated commitment duration |
 | :--------------- | :-------------------------------------------------- | :---------------------------- |
 | Yusef Karim      | Lead instigator                                     | ∞ months                      |
-| Fatimata Dramane | TBD                                                 | TBD                           |
+| Fatimata Dramane | Communication/Public relation management            | 6 months (renewable)          |
 | Mouad Ouroui     | Technical talks, workshops, and educational content | 6+ months                     |
 | Paul Chukwu      | TBD                                                 | TBD                           |
 | Joe Jaison       | TBD                                                 | TBD                           |
