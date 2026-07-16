@@ -198,9 +198,9 @@ _Who does what? Distinct from governance - these are operational roles._
 
 ## 4.6 Rules (the explicit ones)
 
-- [ ] **Code of conduct** adopted (Contributor Covenant v2.1 / v3 / other)
-- [ ] **Berlin Code of Conduct for in-person events** adopted
-- [ ] **Anti-harassment policy** posted publicly
+- [x] **Code of conduct** adopted (Contributor Covenant v3), see https://riscvottawa.ca/code-of-conduct
+- [x] **Berlin Code of Conduct for in-person events** adopted, see https://riscvottawa.ca/code-of-conduct)
+- [x] **Anti-harassment policy** posted publicly, see https://riscvottawa.ca/code-of-conduct
 - [x] **Decision-making process documented** (adopted and binding, see [§5.2](05-structure-and-governance.md#52-governance-model))
 - [x] **Conflict of interest policy** (especially for vendor-affiliated members)
 - [ ] **Privacy policy** for member data
