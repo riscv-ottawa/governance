@@ -38,7 +38,7 @@ _This section is adopted and binding. It defines how every decision in RVO gets 
 Very importantly, **the organizing team should help ensure the entire extended RVO community is aware and tries to adhere to this model as well.**
 The organizing team are expected to act as examples, upholding this model completely.
 
-In the language of open-source governance, RVO runs as a self-appointing organizing team: the founding members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
+In the language of open-source governance, RVO runs as a self-appointing organizing team: the organizing team members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
 RVO delegates reversible day-to-day work to whoever picks it up (Tier 1 below) while holding the consequential decisions to the tiers above it.
 
 > **Organizing team vs. steering group.**

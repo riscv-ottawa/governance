@@ -18,7 +18,7 @@ It sets the decision rules the rest of the documents operates under, if you have
 
 | #   | Document                                                    | What it covers                                                                                                                 | Status         |
 | :-- | :---------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------- |
-| 1   | [Foundations](01-foundations.md)                            | Why we exist, our three orientations, and the founding-team check                                                              | Reviewed       |
+| 1   | [Foundations](01-foundations.md)                            | Why we exist, our three orientations, and the organizing-team check                                                            | Reviewed       |
 | 2   | [Mission Model Canvas](02-mission-model-canvas.md)          | Beneficiaries, value propositions, partners, costs, and impact measures                                                        | 🚧 In progress |
 | 3   | [Community Canvas - Identity](03-community-identity.md)     | Who the community is for, what success looks like, our values and brand                                                        | 🚧 In progress |
 | 4   | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules                                                                             | 🚧 In progress |

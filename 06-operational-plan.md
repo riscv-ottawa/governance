@@ -25,7 +25,7 @@
 
 **Risks to watch:**
 
-- Over-reliance on Yusef (single point of failure, see [§1.3](01-foundations.md#13-founding-team-check-the-rule-of-22))
+- Over-reliance on Yusef (single point of failure, see [§1.3](01-foundations.md#13-organizing-team-check-in-the-rule-of-22))
 - Post-launch momentum drop: sustaining attendance and energy after a strong launch
 - Steering group doesn't form, leaving the community sole-founder dependent
 
