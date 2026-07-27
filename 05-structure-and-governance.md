@@ -33,23 +33,24 @@
 
 _This section is adopted and binding. It defines how every decision in RVO gets made and what is expected of the people who make them. When any other section is unclear about who decides or how, this one governs._
 
-**Who this binds ("organizing team"):** today, the organizing team; if incorporated, the steering group. These are the people who hold decision authority under this section, defined in [§5.3](#53-steering-group--board-composition) and constituted at incorporation per [§5.1](#51-legal-structure-decision). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
+**Who this binds ("organizing team"):** today, the organizing team; if incorporated, the steering group. These are the people who hold decision authority under this section, defined in [§1.3](01-foundations.md#13-organizing-team-check-in-the-rule-of-22) and, if incorporated, [§5.3](#53-steering-group). They are distinct from the operational roles in [§4.5](04-community-experience.md#45-roles): doing a job (running the meetup, moderating Discord) is not the same as holding a governing seat.
 
 Very importantly, **the organizing team should help ensure the entire extended RVO community is aware and tries to adhere to this model as well.**
 The organizing team are expected to act as examples, upholding this model completely.
 
-In the language of open-source governance, RVO runs as a self-appointing organizing team: the organizing team members hold and renew the governing seats themselves ([§5.3](#53-steering-group--board-composition)). If incorporation is done in the future, this becomes an elected board under ONCA ([§5.1](#51-legal-structure-decision)).
-RVO delegates reversible day-to-day work to whoever picks it up (Tier 1 below) while holding the consequential decisions to the tiers above it.
+In the language of open-source governance, RVO runs as a self-appointing organizing team: the organizing team members hold and renew the governing seats themselves. If incorporation is done in the future, this becomes an elected board under ONCA.
 
 > **Organizing team vs. steering group.**
 >
 > These are the same group, but at two different stages.
-> Today, while RVO is unincorporated, it is the *organizing team*: the founders and members who hold and renew the seats themselves.
-> If RVO incorporates under ONCA ([§5.1](#51-legal-structure-decision)), it becomes the *steering group*, a formal elected board bound by ONCA's quorum and voting rules ([§5.3](#53-steering-group--board-composition)).
+> Today, while RVO is unincorporated, it is the *organizing team* ([§1.3](01-foundations.md#13-organizing-team-check-in-the-rule-of-22)): the founders and members who hold and renew the seats themselves.
+> If RVO incorporates under ONCA ([§5.1](#51-legal-structure-decision)), it becomes the *steering group*, a formal elected board bound by ONCA's quorum and voting rules ([§5.3](#53-steering-group)).
 > The steering group only exists in that future incorporated case.
 > Every rule this section places on the organizing team applies to the steering group as well, and even more strictly, since a formal board also carries legal duties on top of them.
 
-Decisions fall into three tiers. Every decision belongs to exactly one tier, and the escalation rules below decide which.
+Decisions fall into three tiers.
+RVO delegates reversible day-to-day work to whoever picks it up (Tier 1 below) while holding the consequential decisions to the tiers above it.
+Every decision belongs to exactly one tier, and the escalation rules below decide which.
 
 ---
 

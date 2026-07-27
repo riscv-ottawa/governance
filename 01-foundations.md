@@ -1,6 +1,6 @@
 # Foundations
 
-> Status: 🚧 In progress
+> Status: Reviewed
 
 ## 1.1 Why are we doing this? (Purpose statement)
 
