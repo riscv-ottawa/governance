@@ -24,7 +24,7 @@ It sets the decision rules the rest of the documents operates under, if you have
 | 4   | [Community Canvas - Experience](04-community-experience.md) | Member journey, rituals, content, roles, and rules                                                                             | 🚧 In progress |
 | 5   | [Structure & Governance](05-structure-and-governance.md)    | Legal structure, the binding **[governance model (§5.2)][gov]**, financing, controls, transparency, and contribution licensing | 🚧 In progress |
 | 6   | [First 12 Months Operational Plan](06-operational-plan.md)  | Quarter-by-quarter milestones and the risks register                                                                           | 🚧 In progress |
-| 7   | [Logs](07-logs.md)                                          | Pre-launch decision log and the open-questions parking lot                                                                     | 🚧 In progress |
+| 7   | [Finance & Resource Log](07-finance-log.md)                 | Public ledger of money and in-kind resources, with balances and period summaries                                               | 🚧 In progress |
 | 8   | [Appendices](08-appendices.md)                              | Reading list and templates to import / adapt                                                                                   | 🚧 In progress |
 
 ## Contents
@@ -68,7 +68,7 @@ It sets the decision rules the rest of the documents operates under, if you have
   - [⏩ 5.9 Financial controls & accounting](05-structure-and-governance.md#-59-financial-controls--accounting)
   - [5.10 Contributions, licensing, and IP](05-structure-and-governance.md#510-contributions-licensing-and-ip)
 - **[6. First 12 Months Operational Plan](06-operational-plan.md)**
-- **[7. Logs](07-logs.md)**
+- **[7. Finance & Resource Log](07-finance-log.md)**
 - **[8. Appendices](08-appendices.md)**
   - [Appendix A: Reading list](08-appendices.md#appendix-a-reading-list)
   - [Appendix B: Templates](08-appendices.md#appendix-b-templates-to-import--adapt)

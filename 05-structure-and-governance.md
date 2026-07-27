@@ -66,7 +66,7 @@ Rule: whoever is doing the work decides and acts. Anyone may act, provided the a
 
 Scope: programs, venues, invited speakers, spending under the escalation threshold, partnerships, and anything said or committed in the group's name.
 
-Rule: the proposer posts a written proposal to the organizing team channel; it proceeds unless a member of the organizing team raises a valid objection within a **72-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)).
+Rule: the proposer posts a written proposal to the organizing team channel; it proceeds unless a member of the organizing team raises a valid objection within a **72-hour** objection window. A valid objection is reasoned, names a concrete harm to the group's aims, values ([§3.4](03-community-identity.md#34-values-37-max)), or Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)), and comes with a workable path forward. "I'd do it differently" or personal preference is not a valid objection and does not block. Silence past the window counts as consent. Record the outcome in the open, per [§5.8](#58-transparency).
 
 ---
 
@@ -97,7 +97,7 @@ A handful of assets are held by the community as a whole, not by whoever happens
 - Review and respond to Tier 2 and Tier 3 proposals within the stated window. **Sustained non-response is not a silent veto; a member who cannot keep up is expected to say so and step aside so the seat can be filled**.
 - Block only with a valid objection as defined above, and always propose an alternative rather than merely refusing.
 - Disclose conflicts of interest and recuse from the decision, especially members affiliated with a vendor or sponsor. This upholds the vendor-neutral value ([§3.4](03-community-identity.md#34-values-37-max)) and the conflict-of-interest rule in [§4.6](04-community-experience.md#46-rules-the-explicit-ones).
-- Default to open: decisions about public matters are made in the open and recorded, per the decision log ([§7.1](07-logs.md#71-pre-launch-decision-log)) and the transparency commitments in [§5.8](#58-transparency). Private handling is reserved for personal data and incidents.
+- Default to open: decisions about public matters are made in the open and recorded, per the transparency commitments in [§5.8](#58-transparency). Private handling is reserved for personal data and incidents.
 - Uphold the values ([§3.4](03-community-identity.md#34-values-37-max)) and the Code of Conduct ([§4.6](04-community-experience.md#46-rules-the-explicit-ones)) in how decisions are made, not only in what is decided.
 - Share the load and honor succession and term limits so no single person carries the group. This is a governing duty because the biggest structural risk to RVO is sole-founder dependence (see the Lead stage in [§4.1](04-community-experience.md#41-member-journey) and the risks register in [§6.4](06-operational-plan.md#64-risks-register)).
 
@@ -294,8 +294,9 @@ The formal steering group (an elected board) is constituted at incorporation (se
 - [x] Strategic plan / roadmap (this worksheet)
 - [x] Bylaws (if incorporated)
 - [x] Annual financial summary (once applicable)
+- [x] Finance & resource log (see [§7](07-finance-log.md))
 - [x] Code of conduct + enforcement log (anonymized)
-- [x] Decisions log (see [§7](07-logs.md))
+- [x] Decision record: doc-changing decisions are versioned in this repository's git history; one-off decisions and open questions are filed as GitHub Issues
 
 **What we keep private:**
 

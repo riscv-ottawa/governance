@@ -5,9 +5,9 @@
 ## 6.1 Months 0–3 (Spark the flame)
 
 - [x] Founding team committed
-- [ ] Purpose statement agreed
+- [x] Purpose statement agreed
 - [x] First meetup scheduled and completed
-- [ ] Code of conduct adopted
+- [x] Code of conduct adopted
 - [x] Luma page created
 - [x] Discord server stood up
 - [x] GitHub org created
@@ -15,7 +15,6 @@
 - [ ] RISC-V Community Group application submitted (community.riscv.org)
 - [ ] RISC-V Ambassador application drafted (one founding member)
 - [x] OpenHW Foundation contacted (2934 Baseline Rd) for an intro meeting
-- [ ] Toronto RISC-V meetup organizers contacted (coordinate, don't fragment)
 
 **Decisions to make this quarter:**
 
