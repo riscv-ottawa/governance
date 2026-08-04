@@ -23,13 +23,14 @@ RISC-V Ottawa grows and consolidates a local community of engineers, researchers
 
 _From Hackerspace Design Patterns: we want at least 2+2 committed organizers who will stick around. Burnout is the #1 killer and 2+2 will ensure we avoid it._
 
-| Name             | Focus area                                          | Estimated commitment duration |
-| :--------------- | :-------------------------------------------------- | :---------------------------- |
-| Yusef Karim      | Lead instigator                                     | ∞ months                      |
-| Fatimata Dramane | Communication/Public relation management            | 6 months (renewable)          |
-| Mouad Ouroui     | Technical talks, workshops, and educational content | 6+ months                     |
-| Paul Chukwu      | Technical and community workshops, event speaker    | 4+ months                     |
-| Joe Jaison       | Workshops and communication                         | 4+ months                     |
+| Name                        | Focus area                                          | Estimated commitment duration |
+| :-------------------------- | :-------------------------------------------------- | :---------------------------- |
+| Yusef Karim                 | Lead instigator                                     | ∞ months                      |
+| Fatimata Dramane            | Communication/Public relation management            | 6 months (renewable)          |
+| Mouad Ouroui                | Technical talks, workshops, and educational content | 6+ months                     |
+| Paul Chukwu                 | Technical and community workshops, event speaker    | 4+ months                     |
+| Joe Jaison                  | Workshops and communication                         | 4+ months                     |
+| Zachary McSween Manickchand | Technical talks, workshops, and educational content | 6+ months                     |
 
 > NOTE:
 > The estimated commitment duration provides a rough estimate of the time an organizing team member plans to stay and contribute in their role.
