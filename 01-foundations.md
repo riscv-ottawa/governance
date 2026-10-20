@@ -31,6 +31,7 @@ _From Hackerspace Design Patterns: we want at least 2+2 committed organizers who
 | Paul Chukwu                 | Technical and community workshops, event speaker    | 4+ months                     |
 | Joe Jaison                  | Workshops and communication                         | 4+ months                     |
 | Zachary McSween Manickchand | Technical talks, workshops, and educational content | 6+ months                     |
+| Nicolas Kmita               | Book club, Project Craton (educational content)     | 4+ months                     |
 
 > NOTE:
 > The estimated commitment duration provides a rough estimate of the time an organizing team member plans to stay and contribute in their role.
